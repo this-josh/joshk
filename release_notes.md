@@ -1,5 +1,10 @@
 # Release notes
 
+## 0.1.2
+
+*   There seems to be an issue with click in `0.1.1`, trying again
+*   Added descriptions
+
 ## 0.1.1
 
 *   Adding `click` as a dependency
