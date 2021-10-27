@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "joshk"
-version = "0.1.1"
-description = ""
+version = "0.1.2"
+description = "A package of Josh K's things"
 authors = ["Josh K <59419126+this-josh@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
