@@ -1,17 +1,17 @@
 # joshk
- 
+
 ## CLI
 
-### `python -m joshk --bibtex "your bibtex"
+### `python -m joshk --bibtex "your bibtex"`
 
 To insert a bibtex entry in a your notion database there are a few things required
 
-1. Install this package
+1. Install this package with `pip install joshk`
 2. Get your notion key and database ID by following the [Getting started](https://developers.notion.com/docs/getting-started#getting-started), this will only take a few minutes.
 3. Find a paper on your Mendely, right click and "Copy BibTeX entry"
 4. Run `python -m joshk --bibtex "{paste}"
 
-Hey presto, you're done!
+Hey presto, you're done! :smiley:
 
 **Further usage**
 
